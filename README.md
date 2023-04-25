@@ -4,3 +4,4 @@
 [![GitHub Build](https://github.com/yi-Xu-0100/scoop-assistant/actions/workflows/build.yml/badge.svg)](https://github.com/yi-Xu-0100/scoop-assistant/actions/workflows/build.yml)
 
 🥳 The GUI of scoop based on Electron.
+-
